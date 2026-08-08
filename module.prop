@@ -1,0 +1,6 @@
+id=android-system-ca-overlay
+name=Android System CA Overlay
+version=1.0.0
+versionCode=100
+author=Open-source contributors
+description=Systemlessly overlays PEM CA certificates into Android's active system trust store.
